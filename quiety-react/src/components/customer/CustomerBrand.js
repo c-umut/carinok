@@ -37,73 +37,50 @@ export default function CustomerBrand() {
           </div>
           <div className="row">
             <div className="col-auto">
-              <Swiper className="digi-logo-slider" {...swiperOption}>
-                <SwiperSlide>
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/google.svg"
-                      className="img-fluid"
-                      height="30"
-                      alt="logo"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  {' '}
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/facebook.svg"
-                      className="img-fluid"
-                      alt="logo"
-                      height="30"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  {' '}
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/youtube.svg"
-                      className="img-fluid"
-                      alt="logo"
-                      height="30"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  {' '}
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/printerest.svg"
-                      className="img-fluid"
-                      alt="logo"
-                      height="30"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  {' '}
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/webflow.svg"
-                      className="img-fluid"
-                      alt="logo"
-                      height="30"
-                    />
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                  {' '}
-                  <div className="single-logo">
-                    <img
-                      src="assets/img/brand-logo/company.svg"
-                      className="img-fluid"
-                      alt="logo"
-                      height="30"
-                    />
-                  </div>
-                </SwiperSlide>
-              </Swiper>
+              <div className="d-flex flex-wrap justify-content-center align-items-center gap-8">
+                <img
+                  src="assets/img/brand-logo/Group10.png"
+                  alt="Group10 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+                <img
+                  src="assets/img/brand-logo/Group7.png"
+                  alt="Group7 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+                <img
+                  src="assets/img/brand-logo/Group3.png"
+                  alt="Group3 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+                <img
+                  src="assets/img/brand-logo/Group4.png"
+                  alt="Group4 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+                <img
+                  src="assets/img/brand-logo/Group6.png"
+                  alt="Group6 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+                <img
+                  src="assets/img/brand-logo/Group8.png"
+                  alt="Group8 Logo"
+                  className="img-fluid"
+                  width="180"
+                  height="auto"
+                />
+              </div>
             </div>
           </div>
         </div>

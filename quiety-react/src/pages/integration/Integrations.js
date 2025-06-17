@@ -18,7 +18,6 @@ const Integrations = () => {
         desc="Seamlessly actualize client-based users after out-of-the-box value. Globally embrace strategic data through frictionless expertise."
       />
       <IntegrationThree />
-      <Promo bgWhite />
       <CtaSubscribe />
       <FooterOne footerLight />
     </Layout>

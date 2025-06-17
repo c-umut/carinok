@@ -76,7 +76,7 @@ function App() {
       <Router>
         <ScrollToTop />
         <Routes>
-          <Route path="/" element={<HomeSassOne />} />
+          <Route path="/" element={<HomeSassTwo />} />
           <Route path="/home" element={<HomeSassTwo />} />
           <Route path="/home-desktop-app" element={<HomeDesktopApp />} />
           <Route path="/home-app-landing" element={<HomeAppLanding />} />

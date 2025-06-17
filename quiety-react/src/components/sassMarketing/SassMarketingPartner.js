@@ -16,7 +16,7 @@ const SassMarketingPartner = () => {
         <div className="mk-partners-list mt-5">
           <div className="mk-partner-item">
             <img
-              src="assets/img/icons/google-text.svg"
+              src="assets/img/icons/borusan_logo.png"
               alt="google"
               className="img-fluid"
             />

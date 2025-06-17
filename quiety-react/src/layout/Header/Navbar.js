@@ -99,6 +99,11 @@ const Navbar = ({
                   </Link>
                 </li>
                 <li>
+                  <Link to="/integrations" className="nav-link">
+                    Partners
+                  </Link>
+                </li>
+                <li>
                   <Link to="/career" className="nav-link">
                     Career
                   </Link>
@@ -133,7 +138,7 @@ const Navbar = ({
                   <img
                     width={121}
                     height={36}
-                    src="/logo-color.png"
+                    src="/assets/img/carinok_logo.png"
                     alt="logo"
                     className="img-fluid ps-2"
                   />
@@ -148,7 +153,7 @@ const Navbar = ({
                 </button>
               </div>
 
-              {/* <OffCanvasMenu /> */}
+              <OffCanvasMenu />
             </div>
           </div>
         </nav>
