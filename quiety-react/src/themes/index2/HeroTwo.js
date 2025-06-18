@@ -18,10 +18,8 @@ const HeroTwo = () => {
             <div className='col-xl-8 col-lg-10'>
               <div className='hero-content-wrap'>
                 <HeroTitle
-                  title='  Single Dashboard for All your Business Needs'
-                  desc='     Uniquely network business experiences for resource sucking
-                  solutions. Dynamically re-engineer cooperative networks via
-                  cross-media expertise.'
+                  title='  Purpose-Built Software for Your Business'
+                  desc='     We design and develop scalable, efficient, and user-centric software tailored to your business needs. From automation to custom platforms, we deliver reliable digital solutions.'
                 />
                 <div
                   className='action-btns text-center pt-4'
@@ -29,7 +27,7 @@ const HeroTwo = () => {
                   data-aos-delay='100'
                 >
                   <Link to='/contact-us' className='btn btn-outline-primary'>
-                    Talk to Sales
+                    Discover
                   </Link>
                 </div>
               </div>

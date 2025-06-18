@@ -57,7 +57,6 @@ const CrmFooter = () => {
                     />
                   </form>
                   <div className="ratting-wrap mt-4">
-                    <h6 className="mb-0">10/10 Overall rating</h6>
                     <ul className="list-unstyled rating-list list-inline mb-0">
                       <li className="list-inline-item">
                         <i className="fas fa-star text-warning"></i>
@@ -248,7 +247,7 @@ const CrmFooter = () => {
               <div className="col-md-7 col-lg-7">
                 <div className="copyright-text">
                   <p className="mb-lg-0 mb-md-0">
-                    &copy; 2021 Quiety Rights Reserved. Designed By{" "}
+                    &copy; 2025 Carinok Rights Reserved. Designed By{" "}
                     <Link
                       href="https://themetags.com/"
                       className="text-decoration-none"

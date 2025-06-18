@@ -50,19 +50,19 @@ const OurStory = () => {
                 <div className='story-grid rounded-custom bg-dark overflow-hidden position-relative'>
                   <div className='story-item bg-light border'>
                     <h3 className='display-5 fw-bold mb-1 text-success'>
-                      550K+
+                      +50
                     </h3>
-                    <h6 className='mb-0'>Active Users</h6>
+                    <h6 className='mb-0'>Projects Completed</h6>
                   </div>
                   <div className='story-item bg-white border'>
                     <h3 className='display-5 fw-bold mb-1 text-primary'>
-                      250+
+                      25+
                     </h3>
                     <h6 className='mb-0'>Team Members</h6>
                   </div>
                   <div className='story-item bg-white border'>
-                    <h3 className='display-5 fw-bold mb-1 text-dark'>$20M+</h3>
-                    <h6 className='mb-0'>Revenue Per/Year</h6>
+                    <h3 className='display-5 fw-bold mb-1 text-dark'>37</h3>
+                    <h6 className='mb-0'>Diffirent Customers</h6>
                   </div>
                   <div className='story-item bg-light border'>
                     <h3 className='display-5 fw-bold mb-1 text-warning'>
@@ -71,14 +71,14 @@ const OurStory = () => {
                     <h6 className='mb-0'>In Business</h6>
                   </div>
                   <div className='story-item bg-light border'>
-                    <h3 className='display-5 fw-bold mb-1 text-danger'>425+</h3>
-                    <h6 className='mb-0'>Clients Worldwide</h6>
+                    <h3 className='display-5 fw-bold mb-1 text-danger'>$5.2M</h3>
+                    <h6 className='mb-0'>Investment taken into our projects</h6>
                   </div>
                   <div className='story-item bg-white border'>
                     <h3 className='display-5 fw-bold mb-1 text-primary'>
                       855+
                     </h3>
-                    <h6 className='mb-0'>Projects Completed</h6>
+                    <h6 className='mb-0'>Enterprise Integration</h6>
                   </div>
                 </div>
               </div>

@@ -58,7 +58,7 @@ const Navbar = ({
                 <img
                   width={113}
                   height={36}
-                  src="assets/img/carinok_logo.png"
+                  src="assets/img/carion-logo-grayscale.svg"
                   alt="logo"
                   className="img-fluid logo-color"
                 />
@@ -66,7 +66,7 @@ const Navbar = ({
                 <img
                   width={113}
                   height={36}
-                  src="assets/img/carinok_logo.png"
+                  src="assets/img/carion-logo-grayscale.svg"
                   alt="logo"
                   className="img-fluid logo-white"
                 />
@@ -138,7 +138,7 @@ const Navbar = ({
                   <img
                     width={121}
                     height={36}
-                    src="/assets/img/carinok_logo.png"
+                    src="/assets/img/carion-logo-grayscale.svg"
                     alt="logo"
                     className="img-fluid ps-2"
                   />

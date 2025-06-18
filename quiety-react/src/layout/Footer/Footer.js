@@ -22,9 +22,9 @@ const Footer = ({ footerLight, style, footerGradient }) => {
                 <div className="footer-single-col">
                   <div className="footer-single-col mb-4">
                     {footerLight ? (
-                      <img src="assets/img/logo-color.png" alt="logo" />
+                      <img src="assets/img/carion-logo-grayscale.svg" alt="Carinok" />
                     ) : (
-                      <img src="assets/img/logo-white.png" alt="logo" />
+                      <img src="assets/img/carion-logo-grayscale.svg" alt="Carinok" />
                     )}
                   </div>
                   <p>
@@ -49,7 +49,6 @@ const Footer = ({ footerLight, style, footerGradient }) => {
                     />
                   </form>
                   <div className="ratting-wrap mt-4">
-                    <h6 className="mb-0">10/10 Overall rating</h6>
                     <Rating />
                   </div>
                 </div>

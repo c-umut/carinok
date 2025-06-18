@@ -42,9 +42,9 @@ const OerviewCard = () => {
             </div>
           </li>
         </ul>
-        <a href='contact-us.html' className='btn btn-primary d-block mt-5'>
+        <div className='btn btn-primary d-block mt-5'>
           Apply now
-        </a>
+        </div>
       </div>
     </>
   );

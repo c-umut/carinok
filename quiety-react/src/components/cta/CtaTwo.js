@@ -14,8 +14,8 @@ const CtaTwo = () => {
             <div className='col-lg-8 col-md-10'>
               <div className='subscribe-info-wrap text-center position-relative z-2'>
                 <SectionTitle
-                  subtitle="Let's Try! Get Free Support"
-                  title='Start Your 14-Day Free Trial'
+                  subtitle="Let's Try! Contact Us"
+                  title='Discover what we can do for you'
                   description='We can help you to create your dream website for better
                     business revenue.'
                   dark
@@ -33,25 +33,19 @@ const CtaTwo = () => {
                   <li className='nav-item'>
                     <span>
                       <i className='far fa-check-circle text-primary me-2'></i>
-                      Free 14-day trial
+                      Flexible Working Methods
                     </span>
                   </li>
                   <li className='nav-item'>
                     <span>
                       <i className='far fa-check-circle text-primary me-2'></i>
-                      No credit card required
+                      End-to-end solutions
                     </span>
                   </li>
                   <li className='nav-item'>
                     <span>
                       <i className='far fa-check-circle text-primary me-2'></i>
-                      Support 24/7
-                    </span>
-                  </li>
-                  <li className='nav-item'>
-                    <span>
-                      <i className='far fa-check-circle text-primary me-2'></i>
-                      Cancel anytime
+                      Post-product support
                     </span>
                   </li>
                 </ul>

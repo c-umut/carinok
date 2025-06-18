@@ -11,28 +11,28 @@ const OffCanvasMenu = () => {
     <div className="offcanvas-body">
       <ul className="nav col-12 col-md-auto justify-content-center main-menu">
         <li data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/">
-            <a className="nav-link">Home</a>
+          <Link to="/">
+            <span className="nav-link">Home</span>
           </Link>
         </li>
         <li data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/services">
-            <a className="nav-link">Services</a>
+          <Link to="/services">
+            <span className="nav-link">Services</span>
           </Link>
         </li>
         <li data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/integrations">
-            <a className="nav-link">Partners</a>
+          <Link to="/integrations">
+            <span className="nav-link">Partners</span>
           </Link>
         </li>
         <li data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/career">
-            <a className="nav-link">Career</a>
+          <Link to="/career">
+            <span className="nav-link">Career</span>
           </Link>
         </li>
         <li data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/blog">
-            <a className="nav-link">Blog</a>
+          <Link to="/blogs">
+            <span className="nav-link">Blog</span>
           </Link>
         </li>
       </ul>
@@ -45,8 +45,8 @@ const OffCanvasMenu = () => {
           </Link>
         </span> */}
         <span data-bs-dismiss="offcanvas" aria-label="Close">
-          <Link legacyBehavior href="/contact-us">
-            <a className="btn btn-primary">Contact Us</a>
+          <Link to="/contact-us">
+            <span className="btn btn-primary">Contact Us</span>
           </Link>
         </span>
       </div>

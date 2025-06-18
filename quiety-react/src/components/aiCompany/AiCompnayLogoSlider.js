@@ -30,7 +30,7 @@ const AiCompnayLogoSlider = () => {
               <div className="row justify-content-center">
                 <div className="col-auto">
                   <h5 className="mb-4 clr-text">
-                    Trusted by the best companies in the world
+                    Trusted by the companies in the world
                   </h5>
                 </div>
               </div>

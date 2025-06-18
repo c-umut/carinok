@@ -31,10 +31,10 @@ const ContactFormThree = () => {
                       Questions about our product or pricing? Call for support
                     </p>
                     <a
-                      href='tel:(415)231-59687'
+                      href='tel:+902166060079'
                       className='read-more-link text-decoration-none'
                     >
-                      <i className='far fa-phone me-2'></i> (415)231-59687
+                      <i className='far fa-phone me-2'></i> +90 216 606 0079
                     </a>
                   </div>
                 </div>
@@ -47,17 +47,13 @@ const ContactFormThree = () => {
                     <i className='fas fa-comment-alt-lines fa-2x text-danger'></i>
                   </div>
                   <div className='contact-info'>
-                    <h5>Chat Us</h5>
-                    <p>
-                      Our support will help you from
-                      <strong>9am to 5pm EST.</strong>
-                    </p>
+                    <h5>Meet with us</h5>
+                    <p>Allianz Tower, Kayışdağı Cd. No:1 No:1 29th Floor</p>
                     <Link
                       to='/contact-us'
                       className='read-more-link text-decoration-none'
                     >
-                      <i className='far fa-comment-alt-dots me-2'></i> Live Chat
-                      Now
+                      <i className='far fa-comment-alt-dots me-2'></i> Meet with us
                     </Link>
                   </div>
                 </div>

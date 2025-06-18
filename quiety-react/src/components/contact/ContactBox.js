@@ -10,18 +10,14 @@ const ContactBox = () => {
               <div className='contact-us-promo p-5 bg-white rounded-custom custom-shadow text-center d-flex flex-column h-100'>
                 <span className='fad fa-comment-alt-lines fa-3x text-primary'></span>
                 <div className='contact-promo-info mb-4'>
-                  <h5>Chat with us</h5>
-                  <p>
-                    We've got live Social Experts waiting to help you{' '}
-                    <strong>monday to friday</strong> from
-                    <strong>9am to 5pm EST.</strong>
-                  </p>
+                  <h5>Meet with us</h5>
+                  <p>Allianz Tower, Kayışdağı Cd. No:1 No:1 29th Floor</p>
                 </div>
                 <a
                   href='mailto:hellothemetags@gmail.com'
                   className='btn btn-link mt-auto'
                 >
-                  Chat with us
+                  Meet with us
                 </a>
               </div>
             </div>
@@ -31,13 +27,11 @@ const ContactBox = () => {
                 <div className='contact-promo-info mb-4'>
                   <h5>Email Us</h5>
                   <p>
-                    Simple drop us an email at{' '}
-                    <strong>hellothemetags@gmail.com</strong>
-                    and you'll receive a reply within 24 hours
+                    Simple drop us an email at <strong>hi@carinok.com</strong> and you'll receive a reply within 24 hours
                   </p>
                 </div>
                 <a
-                  href='mailto:hellothemetags@gmail.com'
+                  href='mailto:hi@carinok.com'
                   className='btn btn-primary mt-auto'
                 >
                   Email Us
@@ -55,8 +49,8 @@ const ContactBox = () => {
                     <strong>9am to 5pm EST.</strong>
                   </p>
                 </div>
-                <a href='tel:00-976-561-008' className='btn btn-link mt-auto'>
-                  00-976-561-008
+                <a href='tel:+902166060079' className='btn btn-link mt-auto'>
+                  +90 216 606 0079
                 </a>
               </div>
             </div>

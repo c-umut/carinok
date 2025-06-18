@@ -49,7 +49,7 @@ const LatestBlog = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -66,7 +66,7 @@ const LatestBlog = () => {
                       <div className='avatar-info'>
                         <h6 className='mb-0 avatar-name'>Jane Martin</h6>
                         <span className='small fw-medium text-muted'>
-                          April 24, 2021
+                          April 24, 2025
                         </span>
                       </div>
                     </div>
@@ -101,7 +101,7 @@ const LatestBlog = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -118,7 +118,7 @@ const LatestBlog = () => {
                       <div className='avatar-info'>
                         <h6 className='mb-0 avatar-name'>Veronica P. Byrd</h6>
                         <span className='small fw-medium text-muted'>
-                          April 24, 2021
+                          April 24, 2025
                         </span>
                       </div>
                     </div>
@@ -152,7 +152,7 @@ const LatestBlog = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -169,7 +169,7 @@ const LatestBlog = () => {
                       <div className='avatar-info'>
                         <h6 className='mb-0 avatar-name'>Martin Gilbert</h6>
                         <span className='small fw-medium text-muted'>
-                          April 24, 2021
+                          April 24, 2025
                         </span>
                       </div>
                     </div>

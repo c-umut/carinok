@@ -17,13 +17,13 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                 <div className='footer-single-col'>
                   <div className='footer-single-col mb-4'>
                     <img
-                      src='assets/img/logo-white.png'
-                      alt='logo'
+                      src='assets/img/carion-logo-grayscale.svg'
+                      alt='Carinok'
                       className='img-fluid logo-white'
                     />
                     <img
-                      src='assets/img/logo-color.png'
-                      alt='logo'
+                      src='assets/img/carion-logo-grayscale.svg'
+                      alt='Carinok'
                       className='img-fluid logo-color'
                     />
                   </div>
@@ -49,24 +49,6 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
                     />
                   </form>
                   <div className='ratting-wrap mt-4'>
-                    <h6 className='mb-0'>10/10 Overall rating</h6>
-                    <ul className='list-unstyled rating-list list-inline mb-0'>
-                      <li className='list-inline-item'>
-                        <i className='fas fa-star text-warning'></i>
-                      </li>
-                      <li className='list-inline-item'>
-                        <i className='fas fa-star text-warning'></i>
-                      </li>
-                      <li className='list-inline-item'>
-                        <i className='fas fa-star text-warning'></i>
-                      </li>
-                      <li className='list-inline-item'>
-                        <i className='fas fa-star text-warning'></i>
-                      </li>
-                      <li className='list-inline-item'>
-                        <i className='fas fa-star text-warning'></i>
-                      </li>
-                    </ul>
                   </div>
                 </div>
               </div>
@@ -232,8 +214,7 @@ const FooterOne = ({ footerLight, style, footerGradient }) => {
               <div className='col-md-7 col-lg-7'>
                 <div className='copyright-text'>
                   <p className='mb-lg-0 mb-md-0'>
-                    © 2021 Quiety Rights Reserved. Designed By
-                    <a href="https://themeforest.net/user/theme_tags" target="_blank" className="text-decoration-none">ThemeTags</a>
+                    © 2025 Carinok Rights Reserved. Designed with ❤️ by Carinok.
                   </p>
                 </div>
               </div>

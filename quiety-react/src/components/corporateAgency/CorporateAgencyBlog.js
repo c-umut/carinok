@@ -82,7 +82,7 @@ const CorporateAgencyBlog = () => {
           <div className="row">
             <div className="col-12">
               <h6 className="mb-4 text-center heading-text">
-                Trusted by the best companies in the world
+                Trusted by the companies in the world
               </h6>
               <div className="d-flex flex-wrap justify-content-center align-items-center gap-5">
                 <img

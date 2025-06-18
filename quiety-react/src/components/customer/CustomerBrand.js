@@ -31,7 +31,7 @@ export default function CustomerBrand() {
           <div className="row justify-content-center">
             <div className="col-auto">
               <h5 style={{ marginBottom: '40px' }}>
-                Trusted by the best companies in the world
+                Trusted by the companies in the world
               </h5>
             </div>
           </div>

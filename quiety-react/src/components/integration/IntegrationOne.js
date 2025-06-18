@@ -185,59 +185,6 @@ const IntegrationOne = () => {
               </div>
             </div>
           </div>
-          <div className='row justify-content-center mt-100'>
-            <div className='col-lg-5 col-md-12'>
-              <a
-                href='integration-single.html'
-                className='mb-4 mb-lg-0 mb-xl-0 position-relative text-decoration-none connected-app-single border border-light border-2 rounded-custom d-block overflow-hidden p-5'
-              >
-                <div className='position-relative connected-app-content'>
-                  <div className='integration-logo bg-custom-light rounded-circle p-2 d-inline-block'>
-                    <img
-                      src='assets/img/integations/4.png'
-                      width='40'
-                      alt='integration'
-                      className='img-fluid'
-                    />
-                  </div>
-                  <h5>Google Drive</h5>
-                  <p className='mb-0 text-body'>
-                    Competently generate unique e-services and client-based
-                    models. Globally engage tactical niche
-                  </p>
-                </div>
-                <span className='position-absolute integration-badge badge px-3 py-2 bg-primary-soft text-primary'>
-                  Connect
-                </span>
-              </a>
-            </div>
-
-            <div className='col-lg-5 col-md-12'>
-              <a
-                href='integration-single.html'
-                className='position-relative text-decoration-none connected-app-single border border-light border-2 rounded-custom d-block overflow-hidden p-5'
-              >
-                <div className='position-relative connected-app-content'>
-                  <div className='integration-logo bg-custom-light rounded-circle p-2 d-inline-block'>
-                    <img
-                      src='assets/img/integations/9.png'
-                      width='40'
-                      alt='integration'
-                      className='img-fluid'
-                    />
-                  </div>
-                  <h5>Google Drive</h5>
-                  <p className='mb-0 text-body'>
-                    Globally engage tactical niche markets rather than
-                    client-based competently generate services
-                  </p>
-                </div>
-                <span className='position-absolute integration-badge badge px-3 py-2 bg-danger-soft text-danger'>
-                  Connected
-                </span>
-              </a>
-            </div>
-          </div>
         </div>
       </section>
     </>

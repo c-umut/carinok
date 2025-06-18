@@ -18,7 +18,7 @@ class HomeSassOne extends Component {
   render() {
     return (
       <Layout>
-        <PageMeta title='Quiety - Software &amp; IT Solutions HTML Template' />
+        <PageMeta title='Carinok - Software & IT Solutitons' />
         <Navbar navDark />
         <HeroOne />
         <FeatureOne />

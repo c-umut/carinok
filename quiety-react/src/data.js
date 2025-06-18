@@ -1112,7 +1112,7 @@ const blogFeatureData = [
     info: "Society is fragmenting into two parallel realities. In one reality, you have infinite upside and opportunity. In the other reality, you'll continue to see the gap between your standard of living and those at the top grow more and more.",
     profilePic: "/assets/img/testimonial/6.jpg",
     author: "Jane Martin",
-    data: "April 24, 2021",
+    data: "April 24, 2025",
     class: "bg-warning-soft",
   },
   {
@@ -1207,7 +1207,6 @@ const careerJobCard = [
     listItem: [
       {
         location: "İstanbul",
-        salary: "$35-$45k",
       },
     ],
   },
@@ -1219,19 +1218,17 @@ const careerJobCard = [
     listItem: [
       {
         location: "İstanbul",
-        salary: "$25-$35k",
       },
     ],
   },
   {
     type: "Full Time",
-    position: "Manager",
-    title: "Senior Office Manager",
+    position: "Analyst",
+    title: "Data Analyst",
     className: "bg-success-soft text-success",
     listItem: [
       {
         location: "Ankara",
-        salary: "$55-$65k",
       },
     ],
   },
@@ -1242,7 +1239,6 @@ const careerJobCard = [
     listItem: [
       {
         location: "Ankara",
-        salary: "$55-$62k",
       },
     ],
   },

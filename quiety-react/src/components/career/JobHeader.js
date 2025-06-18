@@ -27,27 +27,7 @@ const JobHeader = () => {
                   <h1 className='display-5 fw-bold'>
                     Senior Backend Developer
                   </h1>
-
                   <h6>About The Company</h6>
-                  <ul className='list-unstyled list-inline mb-0 mt-3'>
-                    <li className='list-inline-item me-4'>
-                      <i className='far fa-house-building me-2'></i> Google
-                    </li>
-                    <li className='list-inline-item me-4'>
-                      <div className='star-rating'>
-                        <i className='far fa-smile me-2'></i>
-                        <span className='fas fa-star small text-warning'></span>
-                        <span className='fas fa-star small text-warning'></span>
-                        <span className='fas fa-star small text-warning'></span>
-                        <span className='fas fa-star small text-warning'></span>
-                        <span className='fas fa-star small text-warning'></span>
-                      </div>
-                    </li>
-                    <li className='list-inline-item me-4'>
-                      <i className='far fa-map-marker-alt me-2'></i>United
-                      Kingdom
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>

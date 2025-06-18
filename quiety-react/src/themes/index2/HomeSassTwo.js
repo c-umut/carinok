@@ -15,7 +15,7 @@ import OurStory from "../../components/about/OurStory";
 const HomeSassTwo = () => {
   return (
     <Layout>
-      <PageMeta title="Quiety - Software &amp; IT Solutions HTML Template" />
+      <PageMeta title='Carinok - Software & IT Solutitons' />
       <Navbar />
       <HeroTwo />
       <TabOne />

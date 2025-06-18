@@ -35,7 +35,7 @@ const BlogGrid = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -87,7 +87,7 @@ const BlogGrid = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -140,7 +140,7 @@ const BlogGrid = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -157,7 +157,7 @@ const BlogGrid = () => {
                       <div className='avatar-info'>
                         <h6 className='mb-0 avatar-name'>Jane Martin</h6>
                         <span className='small fw-medium text-muted'>
-                          April 24, 2021
+                          March 15, 2024
                         </span>
                       </div>
                     </div>
@@ -192,7 +192,7 @@ const BlogGrid = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
@@ -209,7 +209,7 @@ const BlogGrid = () => {
                       <div className='avatar-info'>
                         <h6 className='mb-0 avatar-name'>Veronica P. Byrd</h6>
                         <span className='small fw-medium text-muted'>
-                          April 24, 2021
+                          March 15, 2024
                         </span>
                       </div>
                     </div>
@@ -243,7 +243,7 @@ const BlogGrid = () => {
                   <p className='limit-2-line-text'>
                     Society is fragmenting into two parallel realities. In one
                     reality, you have infinite upside and opportunity. In the
-                    other reality, you’ll continue to see the gap between your
+                    other reality, you'll continue to see the gap between your
                     standard of living and those at the top grow more and more.
                   </p>
 
